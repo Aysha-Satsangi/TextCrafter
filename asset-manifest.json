@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCrafter-React/static/css/main.073c9b0a.css",
+    "main.js": "/TextCrafter-React/static/js/main.2ec1428a.js",
+    "static/js/787.09c7cc7e.chunk.js": "/TextCrafter-React/static/js/787.09c7cc7e.chunk.js",
+    "index.html": "/TextCrafter-React/index.html",
+    "main.073c9b0a.css.map": "/TextCrafter-React/static/css/main.073c9b0a.css.map",
+    "main.2ec1428a.js.map": "/TextCrafter-React/static/js/main.2ec1428a.js.map",
+    "787.09c7cc7e.chunk.js.map": "/TextCrafter-React/static/js/787.09c7cc7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ec1428a.js"
+  ]
+}
